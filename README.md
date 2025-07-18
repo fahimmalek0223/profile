@@ -1,168 +1,35 @@
-{% extends 'layouts/theme.html' %}
+<h1 align="center">Hi 👋, I'm Fahim Malek</h1>
+<h3 align="center">A passionate Desktop Support Engineer From India</h3>
 
-{% block pageheader %}
-<h2><i class="fa fa-user"></i> <a href="/"> hire fullstack </a><span> Find your next Fullstack developer... </span></h2>
-<div class="breadcrumb-wrapper">
-	<span class="label">You are here:</span>
-	<ol class="breadcrumb">
-		<li><a href="/">Home</a></li>
-		<li><a href="/interested">Favorites</a></li>
-		<li><a href="/developers">Search</a></li>
-		{%if req.user._id.toString() == req.params.id %}
-		<li class="active">Profile</li>
-		{% else %}
-		<li><a href="/profile/{{req.user._id.toString()}}">Profile</a></li>
-		{% endif %}
-	</ol>
-</div>
-{% endblock %}
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=fahimmalek0223&label=Profile%20views&color=0e75b6&style=flat" alt="fahimmalek0223" /> </p>
 
-{% block content %}
-<div class="row" ng-controller="TrackingController" ng-init="startTimer()">
-	<!-- Col-sm-3 -->
-	<div class="col-sm-3">
-		<img src="{{user.linkedin.pictureUrl}}" class="thumbnail img-responsive" alt=""/>
-		<div class="mb30"></div>
-		<h5 class="subtitle">About</h5>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=fahimmalek0223" alt="fahimmalek0223" /></a> </p>
 
-		<p class="mb30">{{user.linkedin.summary || "Edit your profile to tell employers about yourself!"}} <br><a href="">Show More</a></p>
-		<h5 class="subtitle">Connect</h5>
-		<ul class="profile-social-list">
-			<li><i class="fa fa-twitter"></i> <a href="">twitter.com/eileensideways</a></li>
-			<li><i class="fa fa-facebook"></i> <a href="">facebook.com/eileen</a></li>
-			<li><i class="fa fa-youtube"></i> <a href="">youtube.com/eileen22</a></li>
-			<li><i class="fa fa-linkedin"></i> <a href="">linkedin.com/4ever-eileen</a></li>
-			<li><i class="fa fa-pinterest"></i> <a href="">pinterest.com/eileen</a></li>
-			<li><i class="fa fa-instagram"></i> <a href="">instagram.com/eiside</a></li>
-		</ul>
+- 🔭 I’m currently working on **Desktop Support Engineer**
 
-		<div class="mb30"></div>
-		<h5 class="subtitle">Address</h5>
-		<address>
-			795 Folsom Ave, Suite 600<br>
-			San Francisco, CA 94107<br>
-			<abbr title="Phone">P:</abbr> (123) 456-7890
-		</address>
-	</div>
-	<!-- end col-sm-3 -->
-	<!-- Col-sm-9 -->
-	<div class="col-sm-9">
+- 🌱 I’m currently learning **Linux system administration (RHEL), PowerShell scripting, and basic networking**
 
-		<!-- Profile Header -->
-		<div class="profile-header">
-			<h2 class="profile-name">{{user.name}}</h2>
-			<div class="profile-location"><i class="fa fa-map-marker"></i> {{user.github.location}}</div>
-			<div class="profile-position"><i class="fa fa-briefcase"></i>{{user.linkedin.headline}}</a></div>
+- 👯 I’m looking to collaborate on **🖥️ IT automation scripts 🧠 Knowledge base documentation 💻 PowerShell tools 🛡️ Security hardening guides ⚙️ Windows/Linux configuration 🧰 Troubleshooting playbooks 🔧 Helpdesk ticketing system improvements**
 
-			<div class="mb20"></div>
+- 🤝 I’m looking for help with **improving my PowerShell scripting skills and automating repetitive support tasks.**
 
-			<a href='/profile/edit' class="btn btn-success mr5"><i class="fa fa-user"></i> I'm Interested</a>
-			<button class="btn btn-white"><i class="fa fa-envelope-o"></i> Message</button>
-			{% if req.user._id.toString() == req.params.id %}
-			<a href='/profile/edit' class="btn btn-info"><i class='fa fa-edit'></i> Edit</a>
-			{% endif %}
-			<!-- <a href="#myModal" role="button" class="btn btn-info" data-toggle="modal">Demo Modal</a> -->
-			<!-- <button class="btn btn-primary" data-toggle="modal" data-target=".modal-header">Launch Modal</button> -->
-			<button id="watchVideo" class="btn btn-primary" data-toggle="modal" data-target="#videoModal">Watch My Video</button>
-		</div>
+- 💬 Ask me about **Windows troubleshooting, OS installation, remote support tools, and basic Linux commands**
 
-		<!-- end profile header -->
-<!-- Modal -->
+- 📫 How to reach me **malekfahim11@gmail.com**
 
-<!-- <div class="modal-header">
-	<button aria-hidden="true" data-dismiss="modal" class="close" type="button">×</button>
-	<h4 class="modal-title">Static Background</h4>
-</div> -->
+- 📄 Know about my experiences [🖥️ **Desktop Support Engineer** with hands-on experience in troubleshooting hardware, software, and network issues. - 🛠️ Skilled in installing and configuring Windows OS, managing user accounts, and resolving system performance problems. - 🧰 Experience with ticketing systems, remote support tools (AnyDesk, TeamViewer, RDP), and printer/network setups. - 🧪 Familiar with basic Linux (RHEL) and learning PowerShell scripting to automate routine tasks. - 🤝 Strong communication skills with a user-first approach to IT support.](🖥️ **Desktop Support Engineer** with hands-on experience in troubleshooting hardware, software, and network issues. - 🛠️ Skilled in installing and configuring Windows OS, managing user accounts, and resolving system performance problems. - 🧰 Experience with ticketing systems, remote support tools (AnyDesk, TeamViewer, RDP), and printer/network setups. - 🧪 Familiar with basic Linux (RHEL) and learning PowerShell scripting to automate routine tasks. - 🤝 Strong communication skills with a user-first approach to IT support.)
 
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/fahim-malek-25a53a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/fahim-malek-25a53a30b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" height="30" width="40" /></a>
+<a href="https://instagram.com/fahimmalik_0223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimmalik_0223" height="30" width="40" /></a>
+</p>
 
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fahimmalek0223&show_icons=true&theme=highcontrast&hide_border=true&locale=en&layout=compact" alt="fahimmalek0223" /></p>
 
-<div class="modal fade" id="videoModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
-	<div class="modal-dialog modal-lg">
-		<div class="modal-content">
-			<div class="modal-header">
-				<button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
-				<!-- <h4 class="modal-title" id="myModalLabel">Modal title</h4> -->
-			</div>
-			<div class="modal-body">
-				<iframe id="userVid" width="640" height="400" src="//www.youtube.com/embed/HyophYBP_w4" frameborder="0" allowfullscreen></iframe>
-			</div>
-		</div>
-	</div>
-</div>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimmalek0223&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="fahimmalek0223" /></p>
 
-<!-- Modal end -->
-		<!-- Nav Tabs -->
-		<ul class="nav nav-tabs nav-justified nav-profile">
-			<li class="active"><a href="#activities" data-toggle="tab"><strong>Work Experience</strong></a></li>
-			<li><a href="#followers" data-toggle="tab"><strong>Education</strong></a></li>
-			<li><a href="#following" data-toggle="tab"><strong>Project 1</strong></a></li>
-			<li><a href="#events" data-toggle="tab"><strong>Project 2</strong></a></li>
-		</ul>
-		<!-- end nav tabs -->
-
-		<!-- Tab Panes -->
-		<div class="tab-content">
-
-	<!-- Work Experience List -->
-	<div class="tab-pane active" id="activities">
-<!-- 		{% for key, position in user.linkedin.positions.values %}
-			<li>{{position.company.name}}
-				<ul>{{position.title}}</ul>
-				<ul>{{position.startDate.year}} - {{position.endDate.year}}</ul>
-			</li>
-		{% endfor %} -->
-		<div class="panel-group" id="accordion">
-			<div class="panel panel-default">
-		{% for key, position in user.linkedin.positions.values %}
-
-				<div class="panel-heading">
-					<h4 class="panel-title">
-						<a data-toggle="collapse" data-parent="#accordion" href="#collapse{{key}}">
-								{{position.company.name}} : {{position.startDate.year}} - {{position.endDate.year}}
-						</a>
-
-					</h4>
-				</div>
-				<div id="collapse{{key}}" class="panel-collapse collapse in" style="height: auto;">
-					<div class="panel-body">
-					<ul><strong>{{position.title}}</strong></ul>
-					{% for key, line in position.summary.split(';') %}
-					<ul> {{line}}</ul>
-					{% endfor %}
-					</div>
-				</div>
-
-		{% endfor %}
-		</div>
-		</div>
-	</div>
-
-<!-- end work experience list -->
-
-<!-- Education List -->
-<div class="tab-pane" id="followers">
-	{% for school in user.linkedin.educations.values %}
-		<li>{{school.schoolName}}
-			<ul> {{school.fieldOfStudy}} </ul>
-			<ul> {{school.degree}} </ul>
-		</li>
-	{% endfor %}
-</div>
-<!-- project 1 tab -->
-	<div class="tab-pane" id="following">
-	</div>
-<!-- end project 1 tab -->
-<!-- project 1 tab -->
-	<div class="tab-pane" id="events">
-		<h2>We will add secondary projects or skills here</h2>
-	</div>
-<!-- end project 1 tab -->
-</div>
-{% endblock %}
-
-<script type="text/javascript">
-jQuery(document).ready(function() {
-	$('')
-});
-</script>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmalek0223&theme=highcontrast" alt="fahimmalek0223" /></p>
