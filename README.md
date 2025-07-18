@@ -1,7 +1,20 @@
-<h1 align="center">Hi 👋, I'm Fahim malek Fahim Malek</h1>
-<h3 align="center">Desktop Support Engineer</h3>
+# 👨‍💻 Malek Fahim | Desktop Support Engineer
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://instagram.com/fahimmalik_0223" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="fahimmalik_0223" height="30" width="40" /></a>
-</p>
+Hi! I'm a Desktop Support Engineer with hands-on experience in troubleshooting Windows, macOS, and Linux systems. I specialize in system maintenance, hardware & software support, and automation using PowerShell and Bash.
+
+## 🔧 Skills
+- 💻 Windows, Linux (RHEL, Ubuntu), macOS
+- 🛠️ Troubleshooting Hardware/Software Issues
+- 📜 Scripting: PowerShell, Bash
+- 🖥️ Active Directory, Group Policy, SCCM
+- ☁️ Basic Azure AD, Office 365 Administration
+- 🔐 IT Security and Backup Procedures
+
+## 📂 Notable Repositories
+- 🔹 [powershell-scripts](https://github.com/yourusername/powershell-scripts): Common automation scripts for Windows support.
+- 🔹 [linux-support-guides](https://github.com/yourusername/linux-support-guides): Troubleshooting and setup notes for Linux systems.
+- 🔹 [desktop-deployment-guide](https://github.com/yourusername/desktop-deployment-guide): End-to-end desktop provisioning checklist and SOPs.
+
+## 📫 Connect with Me
+- 📧 Email: your.email@example.com
+- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
