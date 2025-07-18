@@ -33,3 +33,14 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fahimmalek0223&show_icons=true&theme=tokyonight&hide_border=true&locale=en" alt="fahimmalek0223" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=fahimmalek0223&theme=highcontrast" alt="fahimmalek0223" /></p>
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <title>My Portfolio</title>
+</head>
+<body>
+  <h1>Hello, I’m Fahim!</h1>
+  <p>Welcome to my GitHub Page</p>
+</body>
+</html>
