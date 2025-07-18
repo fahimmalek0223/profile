@@ -1,20 +1,49 @@
-# 👨‍💻 Malek Fahim | Desktop Support Engineer
+<h1 align="center">Hi 👋, I'm Malek Fahim</h1>
+<h3 align="center">A passionate Desktop Support Engineer and Tech Enthusiast</h3>
 
-Hi! I'm a Desktop Support Engineer with hands-on experience in troubleshooting Windows, macOS, and Linux systems. I specialize in system maintenance, hardware & software support, and automation using PowerShell and Bash.
+---
 
-## 🔧 Skills
-- 💻 Windows, Linux (RHEL, Ubuntu), macOS
-- 🛠️ Troubleshooting Hardware/Software Issues
-- 📜 Scripting: PowerShell, Bash
-- 🖥️ Active Directory, Group Policy, SCCM
-- ☁️ Basic Azure AD, Office 365 Administration
-- 🔐 IT Security and Backup Procedures
+- 💻 I work with **Windows, Networking, and Linux Systems (RHEL)**  
+- 🛠️ Skilled in **System Troubleshooting, User Management, and Technical Support**  
+- 🌱 Currently learning **GitHub, Shell Scripting, and Cloud Basics (AWS/Linux)**  
+- 📂 I share tips, guides, and scripts related to desktop and server support  
+- 📫 Reach me at **malekfahim@example.com** *(replace with your email)*  
 
-## 📂 Notable Repositories
-- 🔹 [powershell-scripts](https://github.com/yourusername/powershell-scripts): Common automation scripts for Windows support.
-- 🔹 [linux-support-guides](https://github.com/yourusername/linux-support-guides): Troubleshooting and setup notes for Linux systems.
-- 🔹 [desktop-deployment-guide](https://github.com/yourusername/desktop-deployment-guide): End-to-end desktop provisioning checklist and SOPs.
+---
 
-## 📫 Connect with Me
-- 📧 Email: your.email@example.com
-- 💼 [LinkedIn](https://linkedin.com/in/yourusername)
+### 🔧 Technologies & Tools
+
+<p align="left">
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/RHEL-EE0000?style=for-the-badge&logo=redhat&logoColor=white" />
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/Bash-4EAA25?style=for-the-badge&logo=gnubash&logoColor=white" />
+</p>
+
+---
+
+### 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=malek-fahim&show_icons=true&theme=tokyonight" alt="Malek's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=malek-fahim&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+---
+
+### 📫 Let's Connect
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:malekfahim@example.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
+
+---
+
+> 🔁 _This profile is constantly evolving — thanks for visiting!_
+
